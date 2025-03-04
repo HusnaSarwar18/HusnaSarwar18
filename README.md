@@ -1,4 +1,4 @@
-# ![Husna's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00A8E8&background=000000&center=true&vCenter=true&width=1020&lines=HUSNA+SARWAR...;🚀+Artificial+Intelligence...;+Software+Developer...;💙+Building+Scalable+&+Intelligent+Solutions...;🔥+Let's+Innovate+Together...)
+# ![Husna's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=pink&background=000000&center=true&vCenter=true&width=1020&lines=HUSNA+SARWAR...;🚀+Artificial+Intelligence...;+Software+Developer...;👩‍💻+Building+Scalable+Intelligent+Solutions...;🔥+Let's+Innovate+Together...)
 
 ### 👋 Hello, world!  
 
