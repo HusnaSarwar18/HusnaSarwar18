@@ -1,4 +1,4 @@
-# ![Husna's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00A8E8&background=000000&center=true&vCenter=true&width=1020&lines=🧑🏻‍💻+HUSNA+SARWAR...;🚀+AI+&+Software+Developer...;💙+Building+Scalable+&+Intelligent+Solutions...;🔥+Let's+Innovate+Together...)
+# ![Husna's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00A8E8&background=000000&center=true&vCenter=true&width=1020&lines=HUSNA+SARWAR...;🚀+Artificial+Intelligence...;+Software+Developer...;💙+Building+Scalable+&+Intelligent+Solutions...;🔥+Let's+Innovate+Together...)
 
 ### 👋 Hello, world!  
 
@@ -39,10 +39,6 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 📊 **Top Languages:**  
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husnasarwar18&layout=compact&theme=blueberry&bg_color=000000&text_color=00A8E8&title_color=00C8FF)  
-
-🔥 **Contribution Streak Stats:**  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=husnasarwar18&theme=dark&background=000000&border=00C8FF&ring=00A8E8&currStreakNum=00A8E8&sideNums=00C8FF)  
 
 📈 **GitHub Activity Graph:**  
 
