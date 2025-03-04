@@ -1,4 +1,4 @@
-# ![Husna's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF69B4&background=000000&center=true&vCenter=true&width=1020&lines=HUSNA+SARWAR...;🚀+Artificial+Intelligence...;+Software+Developer...;👩‍💻+Building+Scalable+Intelligent+Solutions...;🔥+Let's+Innovate+Together...)
+# ![Husna's Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF69B4&background=000000&center=true&vCenter=true&width=1020&lines=HUSNA+SARWAR...;🚀+Artificial+Intelligence...;👩‍💻Software+Developer...;🐱‍💻+Building+Scalable+Intelligent+Solutions...;🔥+Let's+Innovate+Together...)
 
 
 ### 👋 Hello, world!  
@@ -32,18 +32,17 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 - 📧 **Email**: husnasarwar8208@gmail.com  
 
 ---
-
 ## ⚡ GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=husnasarwar18&show_icons=true&theme=blueberry&count_private=true&bg_color=000000&text_color=00A8E8&title_color=00C8FF)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=husnasarwar18&show_icons=true&theme=blueberry&count_private=true&bg_color=000000&text_color=FF69B4&title_color=FF1493)  
 
 📊 **Top Languages:**  
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husnasarwar18&layout=compact&theme=blueberry&bg_color=000000&text_color=00A8E8&title_color=00C8FF)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husnasarwar18&layout=compact&theme=blueberry&bg_color=000000&text_color=FF69B4&title_color=FF1493)  
 
 📈 **GitHub Activity Graph:**  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=husnasarwar18&bg_color=000000&color=00A8E8&line=00C8FF&point=FFFFFF&area=true&area_color=00A8E8)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=husnasarwar18&bg_color=000000&color=FF69B4&line=FF1493&point=FFFFFF&area=true&area_color=FF69B4)  
 
 ---
 🚀 **Let's build the future with AI & innovation!** 💙  
