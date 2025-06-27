@@ -17,6 +17,7 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 ---
 
 ## 🚀 Featured Projects  
+✅ **[Portfolio Website (HusnaSarwar18.github.io)](https://husnasarwar18.github.io)** – 💼 Personal portfolio showcasing my projects, skills, and journey in AI & development.  
 ✅ **[RAG-Powered Multimodal AI-Chatbot](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 🤖 AI chatbot integrating Retrieval-Augmented Generation for PDFs & audio processing.  
 ✅ **[Rainfall Prediction Using Machine Learning](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 🌦️ Predicting rainfall with ML algorithms (Decision Trees & Random Forest).  
 ✅ **[PakWheels Clone App](https://github.com/husnasarwar18)** – 🚗 Kotlin-based vehicle listing & management platform with Firebase.  
@@ -24,7 +25,7 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 ✅ **[Score Extraction from Exam Sheets](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 📝 OCR-based text and score extraction with OpenCV & Tesseract.  
 ✅ **[Voice-Driven AI Chatbot for Early Childhood Education](https://github.com/husnasarwar18)** – 🎙️ AI-powered learning app integrating speech recognition & interactive responses.  
 
-✨ **More AI-powered & software projects coming soon!** 🚀  
+✨ **More AI-powered & software projects coming soon!** 🚀
 
 ---
 
