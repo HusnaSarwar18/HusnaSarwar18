@@ -33,6 +33,12 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 - ✅ **[Voice-Driven AI Chatbot for Kids](https://github.com/husnasarwar18)**  
   🎙️ Speech recognition + intelligent responses for early childhood learning.
 
+- ✅ **[Real-Time Air Quality Monitoring for Lahore](https://github.com/HusnaSarwar18/RealTimeAirQualityMonitoringSystemForLahore)**  
+  🌫️ Web-based dashboard with real-time AQI tracking using APIs, graphs, and alert systems.
+
+- ✅ **[My Portfolio Website](https://github.com/HusnaSarwar18/HusnaSarwar18.github.io)**  
+  🌐 Personal website showcasing my projects, skills, and tech journey in a polished design.
+
 ✨ **More innovative AI & software projects coming soon!** 🚀
 
 ---
