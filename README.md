@@ -17,12 +17,14 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 ---
 
 ## 🚀 Featured Projects   
+
 ✅ **[RAG-Powered Multimodal AI-Chatbot](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 🤖 AI chatbot integrating Retrieval-Augmented Generation for PDFs & audio processing.  
 ✅ **[Rainfall Prediction Using Machine Learning](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 🌦️ Predicting rainfall with ML algorithms (Decision Trees & Random Forest).  
 ✅ **[PakWheels Clone App](https://github.com/husnasarwar18)** – 🚗 Kotlin-based vehicle listing & management platform with Firebase.  
 ✅ **[Library Database Management](https://github.com/husnasarwar18)** – 📚 SQL-based system for efficient book tracking & issuance.  
 ✅ **[Score Extraction from Exam Sheets](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 📝 OCR-based text and score extraction with OpenCV & Tesseract.  
 ✅ **[Voice-Driven AI Chatbot for Early Childhood Education](https://github.com/husnasarwar18)** – 🎙️ AI-powered learning app integrating speech recognition & interactive responses.  
+✅ **[Real-Time Air Quality Monitoring System for Lahore](https://github.com/HusnaSarwar18/RealTimeAirQualityMonitoringSystemForLahore)** – 🌫️ Docker-based real-time system for monitoring Lahore’s air pollution using **Kafka**, **PostgreSQL**, **Node.js**, and **Grafana** dashboards.  
 
 ✨ **More AI-powered & software projects coming soon!** 🚀
 
