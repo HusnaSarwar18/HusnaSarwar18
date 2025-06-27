@@ -16,8 +16,7 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 
 ---
 
-## 🚀 Featured Projects  
-✅ **[Portfolio Website (HusnaSarwar18.github.io)](https://husnasarwar18.github.io)** – 💼 Personal portfolio showcasing my projects, skills, and journey in AI & development.  
+## 🚀 Featured Projects   
 ✅ **[RAG-Powered Multimodal AI-Chatbot](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 🤖 AI chatbot integrating Retrieval-Augmented Generation for PDFs & audio processing.  
 ✅ **[Rainfall Prediction Using Machine Learning](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)** – 🌦️ Predicting rainfall with ML algorithms (Decision Trees & Random Forest).  
 ✅ **[PakWheels Clone App](https://github.com/husnasarwar18)** – 🚗 Kotlin-based vehicle listing & management platform with Firebase.  
