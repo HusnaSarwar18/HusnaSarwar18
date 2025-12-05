@@ -112,11 +112,20 @@ and I'm passionate about solving complex problems with intelligent systems.
 
 ---
 
-## 📌 Pinned Highlights
+## 🌙 Profile Summary (Beautiful Alternative)
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=husnasarwar18&repo=RealTimeAirQualityMonitoringSystemForLahore&theme=blueberry&bg_color=000000&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493" />
-  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=husnasarwar18&repo=HusnaSarwar18.github.io&theme=blueberry&bg_color=000000&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husnasarwar18&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husnasarwar18&theme=github_dark" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husnasarwar18&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=husnasarwar18&theme=github_dark" />
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husnasarwar18&theme=github_dark&utcOffset=5" />
 </p>
 
 ---
