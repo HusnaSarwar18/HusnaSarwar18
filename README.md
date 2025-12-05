@@ -39,6 +39,28 @@ I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET
 - ✅ **[My Portfolio Website](https://github.com/HusnaSarwar18/HusnaSarwar18.github.io)**  
   🌐 Personal website showcasing my projects, skills, and tech journey in a polished design.
 
+---
+
+## 🧩 More Projects
+
+- ✅ **[Zora](https://github.com/HusnaSarwar18/Zora)**  
+  🎨 A clean UI-focused project showcasing modern styling and layout work.
+
+- ✅ **[WQMS](https://github.com/HusnaSarwar18/WQMS)**  
+  🧩 A JavaScript-based project emphasizing structured frontend functionality.
+
+- ✅ **[LiveNews](https://github.com/HusnaSarwar18/LiveNews)**  
+  📰 A live news-style web project with dynamic content and clean UI flow.
+
+- ✅ **[Recipts](https://github.com/HusnaSarwar18/Recipts)**  
+  🧾 A lightweight web project for managing/displaying receipts or formatted data.
+
+- ✅ **[PracticePortfolio](https://github.com/HusnaSarwar18/PracticePortfolio)**  
+  🌟 A practice portfolio build to refine layout, responsiveness, and presentation.
+
+- ✅ **[A-MDigiTech](https://github.com/HusnaSarwar18/A-MDigiTech)**  
+  ⚡ A TypeScript-based project with a modern, scalable front-end structure.
+
 ✨ **More innovative AI & software projects coming soon!** 🚀
 
 ---
