@@ -13,7 +13,20 @@
 
 ---
 
-## 🌸 About Me
+## 👋 Hello, world!
+
+💻 **Tech meets intelligence!** I develop **AI-powered and scalable** software solutions that enhance user experiences.
+
+I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET 💻, Databases 🗄️**,  
+and I'm passionate about solving complex problems with intelligent systems.
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,opencv,tensorflow,pytorch,cs,dotnet,kotlin,androidstudio,js,ts,html,css,react,mysql,sqlite,firebase,git,github&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Developer-FF69B4?style=for-the-badge&logo=openai&logoColor=black" />
@@ -23,22 +36,9 @@
   <img src="https://img.shields.io/badge/.NET-FF69B4?style=for-the-badge&logo=dotnet&logoColor=black" />
 </p>
 
-💻 **Tech meets intelligence!** I develop **AI-powered and scalable** software solutions that enhance user experiences.
-
-I specialize in **Python 🐍, AI 🤖, Machine Learning 📊, Kotlin 📱, .NET 💻, Databases 🗄️**  
-and I love building intelligent, user-friendly systems.
-
 ---
 
-## 🧠 Tech Stack (Visual)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,opencv,tensorflow,pytorch,cs,dotnet,kotlin,androidstudio,js,ts,html,css,react,mysql,sqlite,firebase,git,github&theme=dark" />
-</p>
-
----
-
-## 🔍 Currently Exploring
+## 🔍 Currently exploring
 
 - 🤖 Advanced AI-powered applications  
 - 🏗️ Database optimization & management  
@@ -48,33 +48,29 @@ and I love building intelligent, user-friendly systems.
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF69B4&height=3&section=header" />
-</p>
-
 - ✅ **[RAG-Powered Multimodal AI-Chatbot](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)**  
   🤖 Retrieval-Augmented Generation for PDFs, audio processing & smart interactions.
 
 - ✅ **[Rainfall Prediction Using Machine Learning](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)**  
-  🌦️ Rainfall predictor using Decision Trees & Random Forest.
+  🌦️ ML-based rainfall predictor using Decision Trees & Random Forest.
 
 - ✅ **[PakWheels Clone App](https://github.com/husnasarwar18)**  
   🚗 Kotlin-based vehicle listing app with Firebase backend integration.
 
 - ✅ **[Library Database Management System](https://github.com/husnasarwar18)**  
-  📚 FileStream & SQL system for books and transactions.
+  📚 FileStream & SQL-based system for managing books and transactions.
 
 - ✅ **[Score Extraction from Exam Sheets](https://colab.research.google.com/drive/1Xjm_3zEBV7kjtcctJH8Xon51slMw-evU?usp=sharing)**  
-  📝 OpenCV + Tesseract OCR for exam sheet analysis.
+  📝 OpenCV + Tesseract-powered OCR for analyzing exam sheets.
 
 - ✅ **[Voice-Driven AI Chatbot for Kids](https://github.com/husnasarwar18)**  
-  🎙️ Speech recognition + intelligent responses.
+  🎙️ Speech recognition + intelligent responses for early childhood learning.
 
 - ✅ **[Real-Time Air Quality Monitoring for Lahore](https://github.com/HusnaSarwar18/RealTimeAirQualityMonitoringSystemForLahore)**  
-  🌫️ Web dashboard with real-time AQI tracking + alerts.
+  🌫️ Web-based dashboard with real-time AQI tracking using APIs, graphs, and alert systems.
 
 - ✅ **[My Portfolio Website](https://github.com/HusnaSarwar18/HusnaSarwar18.github.io)**  
-  🌐 Polished personal portfolio.
+  🌐 Personal website showcasing my projects, skills, and tech journey.
 
 ---
 
@@ -91,15 +87,15 @@ and I love building intelligent, user-friendly systems.
 
 ---
 
-# 📊 GitHub Analytics Dashboard (More Graphs!)
+## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=husnasarwar18&show_icons=true&theme=blueberry&count_private=true&bg_color=000000&text_color=FF69B4&title_color=FF1493" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=husnasarwar18&theme=dark&background=000000&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FFB6C1" height="170" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=husnasarwar18&show_icons=true&theme=blueberry&count_private=true&bg_color=000000&text_color=FF69B4&title_color=FF1493" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=husnasarwar18&theme=dark&background=000000&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FFB6C1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husnasarwar18&layout=compact&theme=blueberry&bg_color=000000&text_color=FF69B4&title_color=FF1493" height="160" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=husnasarwar18&layout=compact&theme=blueberry&bg_color=000000&text_color=FF69B4&title_color=FF1493" />
 </p>
 
 <p align="center">
@@ -108,7 +104,7 @@ and I love building intelligent, user-friendly systems.
 
 ---
 
-## 🏆 Achievements (Adds Serious Shine)
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=husnasarwar18&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" />
@@ -116,14 +112,11 @@ and I love building intelligent, user-friendly systems.
 
 ---
 
-## 📌 Pinned Highlights (Optional Showcase)
+## 📌 Pinned Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusnaSarwar18&repo=RealTimeAirQualityMonitoringSystemForLahore&theme=dark&bg_color=000000&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HusnaSarwar18&repo=HusnaSarwar18.github.io&theme=dark&bg_color=000000&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=husnasarwar18&repo=RealTimeAirQualityMonitoringSystemForLahore&theme=blueberry&bg_color=000000&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493" />
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=husnasarwar18&repo=HusnaSarwar18.github.io&theme=blueberry&bg_color=000000&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493" />
 </p>
 
 ---
@@ -141,8 +134,6 @@ and I love building intelligent, user-friendly systems.
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=husnasarwar18&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
